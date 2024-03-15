@@ -1,0 +1,158 @@
+.GRID
+{
+    background-color: crimson;
+    display: grid;
+    grid-template-columns: 50% 20% auto auto;
+    grid-template-rows: 40px 100px auto;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.hijo1
+{
+    background-color: blue;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/5;
+    height: 90px;
+    margin: 5px;
+}
+.hijo2
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/3;
+    height: 60px;
+    margin: 5px;
+}
+.hijo3
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    height: 60px;
+}
+.hijo4
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    height: 60px;
+    margin: 5px;
+}
+.hijo5
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/4;
+    height: 60px;
+    margin: 5px;
+}
+.hijo6
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    height: 60px;
+    margin: 5px;
+}
+.hijo7
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    grid-column: 1/3;
+    height: 60px;
+    margin: 5px;
+}
+.hijo8
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    height: 60px;
+}
+
+.hijo9
+{
+    background-color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+    height: 60px;
+    margin: 5px;
+}
+.FLEX
+{
+    background-color: crimson;
+    display: flex;
+    grid-template-columns: 50% 20% auto auto;
+    grid-template-rows: 30px 100px auto;
+    justify-content: space-between;
+    margin: 5px;
+  
+}
+.hijo1-f
+{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    display: inline-block;
+    display: flex;
+    margin: 15px;
+}
+.hijo2-f
+{
+    background-color: deeppink;
+    width: 800px;
+    height: 100px;
+    background-position: center;
+    display: inline-block;
+
+    margin: 15px;
+}
+.hijo3-f
+{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    background-position: -600px;
+    margin: 5px;
+}
+.hijo2-f-1
+{
+    background-color: aquamarine;
+    width: 700px;
+    height: 30px;
+    margin: 6px;
+}
+.hijo2-f-2
+{
+    background-color: aquamarine;
+    width: 500px;
+    height: 25px;
+    margin: 6px;  
+    display: flexbox;
+}
+.BOOTSTRAP
+{
+    background-color: crimson;
+    display: flex;
+    grid-template-columns: 50% 20% auto auto;
+    grid-template-rows: 30px 120px auto;
+    justify-content: space-between;
+    margin: 5px;
+  
+}
